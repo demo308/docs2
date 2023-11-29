@@ -1,2 +1,2 @@
-- [1](README)
+- [1](1)
 - [Example Second Page](second-page)
